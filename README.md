@@ -1,4 +1,13 @@
-## Hi there 👋
+## Welcome to zibasan's GitHub profile! 👋
+
+- **High School Student** (Grade: 2nd)
+- **Programming and Gaming**
+  - TypeScript(CLI etc.) with VSCode
+  - Minecraft(JE/BE)
+
+I'm making *Minecraft Command Gen CLI*.
+
+AND I don't have girlfriend, so I wanna her!!!!!!!!!!!!!!!!!!!
 
 <!--
 **zibasan/zibasan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
