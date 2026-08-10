@@ -1,5 +1,6 @@
 ## Welcome to zibasan's GitHub profile! 👋
 
+Hi there👋
 - **High School Student** (Grade: 2nd)
 - **Programming and Gaming**
   - TypeScript(CLI etc.) with VSCode
