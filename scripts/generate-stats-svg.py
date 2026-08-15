@@ -24,7 +24,7 @@ LANGS_URL = (
     "&langs_count=8"
     "&card_width=460"
     "&theme=prussian"
-    "&hide=php,scss,css,markdown,mdx,javascript,vue,kotlin"
+    "&hide=php,scss,css,markdown,mdx,javascript,vue,kotlin,just,NSIS"
 )
 STREAK_URL = (
     "https://github-readme-streak-stats-self-delta.vercel.app/"
