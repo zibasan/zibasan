@@ -1,7 +1,7 @@
 ## Welcome to zibasan's GitHub profile! 👋
 
 Hi there👋
-- **High School Student** (Grade: 2nd)
+- **High School Student** (Grade: 3rd)
 - **Programming and Gaming**
   - TypeScript(CLI etc.) with VSCode
   - Minecraft(JE/BE)
