@@ -1,12 +1,8 @@
 ## Welcome to zibasan's GitHub profile! 👋
 
-Hi there👋
-- **High School Student** (Grade: 3rd)
-- **Programming and Gaming**
-  - TypeScript(CLI etc.) with VSCode
-  - Minecraft(JE/BE)
+<img src="assets/profile/readme.gif" height="300" width="700">
 
-I'm making *Minecraft Command Gen CLI*.
+<br>
 
 AND I don't have girlfriend, so I wanna her!!!!!!!!!!!!!!!!!!!
 
