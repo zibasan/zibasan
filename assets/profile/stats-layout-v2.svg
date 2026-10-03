@@ -4,7 +4,7 @@
        viewBox="0 0 467 195" xmlns="http://www.w3.org/2000/svg">
     
         <title id="titleId">&#12376;&#12400;'s GitHub Stats, Rank: B</title>
-        <desc id="descId">Total Stars Earned: 7, Total Commits  (last year) : 762, Total PRs: 56, Total Issues: 2, Contributed to (last year): 7</desc>
+        <desc id="descId">Total Stars Earned: 6, Total Commits  (last year) : 768, Total PRs: 56, Total Issues: 2, Contributed to (last year): 7</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -68,7 +68,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 139.86623101039999;
+        stroke-dashoffset: 141.09495247188383;
       }
     }
   
@@ -157,7 +157,7 @@
         x="219.01"
         y="12.5"
         data-testid="stars"
-      >7</text>
+      >6</text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms" transform="translate(25, 0)">
@@ -172,7 +172,7 @@
         x="219.01"
         y="12.5"
         data-testid="commits"
-      >762</text>
+      >768</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
@@ -351,7 +351,7 @@
           data-testid="lang-progress"
           x="0"
           y="0"
-          width="383.46"
+          width="383.47"
           height="8"
           fill="#3178c6"
         />
@@ -359,9 +359,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="383.46"
+          x="383.47"
           y="0"
-          width="17.92"
+          width="17.91"
           height="8"
           fill="#dea584"
         />
@@ -369,7 +369,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="401.38"
+          x="401.38000000000005"
           y="0"
           width="13.16"
           height="8"
@@ -379,7 +379,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="404.54"
+          x="404.5400000000001"
           y="0"
           width="12.61"
           height="8"
@@ -389,7 +389,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="407.15000000000003"
+          x="407.1500000000001"
           y="0"
           width="11.53"
           height="8"
@@ -399,7 +399,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="408.68"
+          x="408.68000000000006"
           y="0"
           width="10.78"
           height="8"
@@ -409,7 +409,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="409.46"
+          x="409.46000000000004"
           y="0"
           width="10.54"
           height="8"
